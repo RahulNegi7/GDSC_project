@@ -10,7 +10,7 @@ const Markdown = () => {
   return (
     <>
         <header>
-          <b>Markdown-Previewer</b>
+          <b>Markdown-Previewer1</b>
         </header>
 
         <div className="center-div"> 
