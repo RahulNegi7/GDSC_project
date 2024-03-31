@@ -41,6 +41,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Website Snippets
 
+<img src="./images/image 1.png/" width="1000px">
+<img src="./images/image 2.png/" width="1000px">
+<img src="./images/image 3.png/" width="1000px">
+<img src="./images/image 4.png/" width="1000px">
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
